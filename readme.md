@@ -45,4 +45,6 @@ limit_on=1 代表开启限速
 max_rate=1 代表最大速度为1M
 0hour=1048576 代表00点 限速为1048576字节/s
 
+###大大广告
+微信公众号：   
 ![image2](https://github.com/cnkedao/QQrobot/raw/master/pic/2.jpg) 
