@@ -48,3 +48,5 @@ max_rate=1 代表最大速度为1M
 ##大大广告
 微信公众号：   
 ![image2](https://github.com/cnkedao/QQrobot/raw/master/pic/2.jpg) 
+
+关注微信公众号获取更多内容~~
